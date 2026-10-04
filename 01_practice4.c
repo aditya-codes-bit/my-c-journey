@@ -6,3 +6,5 @@ int main()
     printf("The value of simple interest is %f", (p*r*t)/100);
     return 0;
 }
+
+//Thank You
